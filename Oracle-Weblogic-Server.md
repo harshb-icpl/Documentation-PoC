@@ -10,7 +10,7 @@
 <li>
 <p>To install Java for windows, refer to the below link:</p>
 <ul>
-<li><a href="https://www.java.com/en/download/manual.jsp">Download from here</a> (offline-mode is preferable)</li>
+<li><a href="https://www.java.com/en/download/manual.jsp">Download from here</a></li>
 </ul>
 </li>
 <li>
